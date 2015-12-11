@@ -4,7 +4,7 @@
 }
 
 #homeDiv {
-	background-color: red;
+	background-image: url("coffeeAndCode.jpg");
 }
 
 #aboutDiv {
@@ -12,9 +12,13 @@
 }
 
 #portfolioDiv {
-	background-color: green;
+	background-color: #13ddcd;
 }
 
 #contactDiv {
 	background-color: grey;
+}
+
+#homeDiv {
+	padding-top: 50px;
 }
