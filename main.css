@@ -1,3 +1,8 @@
+.container {
+	width: 100%;
+	padding: 0;
+}
+
 .contentDiv {
 	width: 100%;
 	height: 1000px;
@@ -6,20 +11,31 @@
 #homeDiv {
 	background-image: url("coffeeAndCode.jpg");
 	background-size: 100% 100%;
+	padding-top: 50px;
 }
 
 #title {
 	font-family: 'Permanent Marker', cursive;
-	font-size: 5.5em;
+	font-size: 8.5em;
 }
 
 #tagline {
-	font-family: 'Verdana', sans-serif;
+	font-family: 'Helvetica', sans-serif;
 	font-size: 2.7em;
+
+}
+
+#socialLinks {
+	display: inline-block;
+}
+
+#homeSocial {
+	padding-top: 50px;
 }
 
 #aboutDiv {
-	background-color: blue;
+	background-image: url('about-div.jpg');
+	background-size: 100% 100%;
 }
 
 #portfolioDiv {
@@ -27,9 +43,9 @@
 }
 
 #contactDiv {
-	background-color: grey;
+	background-image: url("contact-div.jpg"); 
 }
 
-#homeDiv {
-	padding-top: 50px;
+#portfolioDiv {
+	background-image: url("portfolio-div.jpg");
 }
