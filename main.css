@@ -14,32 +14,31 @@
 	padding-top: 50px;
 }
 
+#homeSocial {
+	padding-top: 50px;
+}
+
+#homeSocial a {
+	color: black;
+}
+
 #title {
 	font-family: 'Permanent Marker', cursive;
-	font-size: 8.5em;
+	font-size: 7.5em;
 }
 
 #tagline {
 	font-family: 'Helvetica', sans-serif;
 	font-size: 2.7em;
-
 }
 
 #socialLinks {
 	display: inline-block;
 }
 
-#homeSocial {
-	padding-top: 50px;
-}
-
 #aboutDiv {
 	background-image: url('about-div.jpg');
 	background-size: 100% 100%;
-}
-
-#portfolioDiv {
-	background-color: #13ddcd;
 }
 
 #contactDiv {
