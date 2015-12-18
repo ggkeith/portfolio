@@ -15,7 +15,7 @@
 }
 
 #homeSocial {
-	padding-top: 50px;
+	padding: 30px 5px 15px 0;
 }
 
 #homeSocial a {
@@ -39,6 +39,14 @@
 #aboutDiv {
 	background-image: url('about-div.jpg');
 	background-size: 100% 100%;
+}
+
+#blurb {
+	text-align: center;
+	font-family: 'Helvetica', sans-serif;
+	font-size: 1.8em;
+	margin-top: 100px;
+	width: 500px;
 }
 
 #contactDiv {
